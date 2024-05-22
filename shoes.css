@@ -1,0 +1,33 @@
+*{
+    
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+}
+
+
+.fs-7{
+    font-size: 13px;
+}
+
+
+.texting{
+    position: relative;     
+}
+.position-absolute-1{
+    position:absolute;
+    left: 20px;
+    top:450px;
+}
+.position-absolute-2{
+    position:absolute;
+    left: 20px;
+    top: 350px;
+
+}
+
+.ps-7{
+    padding-left: 550px;
+}
+.fs-8{
+    font-size: 12px;
+
+}
